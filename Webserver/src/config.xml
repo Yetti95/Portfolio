@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+
+<!-- WEB SERVER META DATA -->
+<webserver
+    title="Another Excellent Webserver"
+    date="March 2018"
+    author="The Wondering Yetti"
+>
+
+<!-- DEFAULT DOCUMENTS -->
+<!-- macOS style -->
+<context defaultDocument="/Users/aj/Documents/Networks/hw4/website/index.html"></context> 
+
+<!-- DOCUMENT ROOT -->
+<!-- Windows style -->
+<context documentRoot="/Users/aj/Documents/Networks/hw4/website/"></context>
+
+<!-- LOG FILE -->
+<!-- macOS / Linux style -->
+<logfile log="/Users/aj/Documents/Networks/hw4/website/logs/log.txt"></logfile> 
+
+</webserver>
