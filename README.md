@@ -64,7 +64,7 @@ Learning Goal(s):
 
 
 ## Resume
-[Link to resume](https://github.com/Yett95/Portofolio/blob/master/Resume.pdf)
+[Link to resume](https://github.com/Yetti95/Portfolio/blob/master/Resume.pdf)
 
 
 
