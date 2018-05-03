@@ -30,7 +30,7 @@ Learning Goal(s):
 
 
 ## Artifact 3: WebServer
-[Link to files](https://github.com/Yetti95/Portofolio/WebServer)
+[Link to files](https://github.com/Yetti95/Webserver)
 
 In our Networks class, we made a web server taht could host basic web pages, images, and other data that could be accessed from another device. This server took an XML configuration file that would allow any user to change the source of the data to their use case. This server also created a log file, if one was not defined in the configuration, and log all request headers that the server recieved. This assignment helped me understand how a sever access data and how http headers work. Overall it elaborated on my knowledge of computer networks and how computers interact with each other and the user.
 
@@ -41,7 +41,7 @@ Learning Goal(s):
 
 
 ## Artifact 4: Chatroom
-[Link to project](https://github.com/Yetti95/Portofolio/ChatRoom-master)
+[Link to project](https://github.com/Yetti95/ChatRoom)
 
 For our final project in the Networks class we were tasked with creating our own protocal and implementing it. Designing the protocol was in a group of ten, but implenting it was left to groups of two. In my group of two we decided to use Python due to its built in library for json, the main component of our protocol. In Python we had to design a server and client that would not only work with each other but also with any other groups that used our protocol. The protocol was made much harder than it needed to be. After getting the server up and running we had to design the multithreaded client applicaiton with a GUI. That was the hardest part. I had never done GUI design without the help of an IDE before. Ultimately this assignment helped me increase my understanding of how computer networks work and how we allow technologies to interact with a network. 
 
@@ -52,7 +52,7 @@ Learning Goal(s):
 
 
 ## Artifact 5: Expr.scala
-[Link to project](https://github.com/Yetti95/Portfolio/expr.scala)
+[Link to project](https://github.com/Yetti95/Portfolio/blob/master/expr.scala)
 
 In Programming Languages, we focused on different computer languages to expand out understanding of how the most common languages operater. We looked at expr, scala, and elm mainly. These are object oriented languages just like Java and Python. The main project of the course was using scala to write an interpater for expr. This took most of the semester. We had very little guidance until after a due date. I found this application to be very difficult due to not only learning two new languages at once but also have to convert one to the other. In the end we were able to run a scala application that allowed us to run a small set of the expr command list. This project helped me devlope my Software Design and problem solving skills.
 
@@ -66,7 +66,6 @@ Learning Goal(s):
 
 
 ## Resume
-English resume
-[Link to resume](https://github.com/Yett95/Portofolio/Resume.pdf)
+[Link to resume](https://github.com/Yett95/Portofolio/blob/master/Resume.pdf)
 
 
