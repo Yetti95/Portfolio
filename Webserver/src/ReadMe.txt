@@ -1,2 +1,0 @@
-To run the server correctly ensure that the default folder is set. after the default forlder is set please set the log path and the 
-defualt webpage. Once this is done according to your system qualifications it should work.
